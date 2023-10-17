@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  font-weight: 900;
+  scroll-behavior: smooth;
+  
+  
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+  
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  background: rgb(58, 58, 58);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 0, 0); 
+  border-radius: 10px;
+}
+
+@keyframes animateDown{
+  0%, 20%, 50%, 80%, 100%{
+    transform: translateY(0);
+  }
+
+  40%{
+    transform: translateY(5px);
+  }
+
+  60%{
+    transform: translateY(3px);
+  }
+}
+a{
+  text-decoration: none;
+}
