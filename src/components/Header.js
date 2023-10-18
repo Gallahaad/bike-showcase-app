@@ -25,7 +25,7 @@ function Header() {
     <Menu>
       
         <a href="#super-meteor">Super Meteor 650</a>
-        <a href="#himalayan">Himalayan 650</a>
+        <a href="#himalayan">Himalayan 411</a>
         <a href="#continental">Continental GT 650</a>
         <a href="#meteor">Meteor 350</a>
         <a href="#classic">Classic 350</a>
@@ -49,7 +49,7 @@ function Header() {
       </CloseWrapper>
       
         <li><a href="#super-meteor">Super Meteor 650</a></li>
-        <li><a href="#himalayan">Himalayan 650</a></li>
+        <li><a href="#himalayan">Himalayan 411</a></li>
         <li><a href="#continental">Continental GT 650</a></li>
         <li><a href="#meteor">Meteor 350</a></li>
         <li><a href="#classic">Classic 350</a></li>
