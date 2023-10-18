@@ -18,7 +18,7 @@ function Header() {
   
   return (
   <Container>
-    <a href="https://www.royalenfield.com/in/en/home/">
+    <a href="#super-meteor">
       <img src="/images/logo5.png" alt=""/>
     </a>
 
