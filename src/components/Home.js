@@ -23,7 +23,7 @@ function Home() {
             /></div>
             <div id="himalayan"><Section 
                 
-                title="Himalayan 650"
+                title="Himalayan 411"
                 description="Born in the Himalayas"
                 backgroundImg="Himalyan 650.jpg"
                 leftBtnText="Book"
