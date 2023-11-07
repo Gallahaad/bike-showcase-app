@@ -18,7 +18,7 @@ function Header() {
   
   return (
   <Container>
-    <a href="#super-meteor">
+    <a href="#">
       <img src="/images/logo5.png" alt=""/>
     </a>
 
